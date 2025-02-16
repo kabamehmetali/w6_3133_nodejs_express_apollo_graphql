@@ -9,21 +9,6 @@ This project is a full-stack application built with **Node.js, Express, GraphQL,
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [GraphQL API Operations](#graphql-api-operations)
-- [Testing with Postman](#testing-with-postman)
-- [Additional Notes](#additional-notes)
-
----
-
 ## Features
 
 - **User Authentication:**
